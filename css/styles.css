@@ -1,0 +1,59 @@
+/** HEADER **/
+#header-nav {	
+	border-radius:0;
+	border: 0;
+}
+
+.navbar-brand h1 {
+  font-family: 'Lora', serif;
+  color: black;
+  font-size: 1.8em;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+.header {
+  font-family: 'Lora', serif;
+  color: black;
+}
+
+#nav-list{
+	margin-top: 10px;
+}
+
+#nav-list a {
+	color: black;
+	text-align: center
+}
+
+#nav-list a:hover{
+	color: Black;
+}
+
+.section-header {
+  font-family: 'Lora', serif;
+  color: black;
+}
+
+
+#chicken {
+	background-color: gray;
+	margin: auto;
+}
+
+#beef {
+	background-color: gray;
+	margin: auto;
+}
+
+#sushi {
+	background-color: gray;
+	margin: auto;
+}
+
+span {
+  font-family: 'Lora', serif;
+  color: black;	
+}
